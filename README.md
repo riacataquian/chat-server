@@ -14,3 +14,5 @@ On a separate instance of your terminal, dial the chat server:
 ```
 
 Run another instance and allow clients to communicate to each other.
+
+![Chat in action](https://lh5.googleusercontent.com/Gdr1DtOTQvuiyBO_lT_gew5NDg7zxHmQtzSwbqrJ5quLG8dVPOmPE0iVAfvfSOgkyVmRd6iQ58S1NChjoPb4=w2880-h1472)
