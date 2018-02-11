@@ -2,6 +2,11 @@
 
 Chat is a TCP server that allows (netcat "`nc`") clients to communicate to each other.
 
+Point your local GOPATH:
+```
+  $ export GOPATH=$PWD
+```
+
 Run this on your terminal:
 ```
   $ go build chat.go
@@ -15,4 +20,4 @@ On a separate instance of your terminal, dial the chat server:
 
 Run another instance and allow clients to communicate to each other.
 
-![Chat in action](https://lh5.googleusercontent.com/Gdr1DtOTQvuiyBO_lT_gew5NDg7zxHmQtzSwbqrJ5quLG8dVPOmPE0iVAfvfSOgkyVmRd6iQ58S1NChjoPb4=w2880-h1472)
+![Chat in action](https://lh6.googleusercontent.com/xeW-4ri7e7t_iNY54Q3EVfnhKfMNp4S7FQyJi3-EnYT72WwHO3dbyuYgtgBTFSMY-0klKaDVINt-qh1398tC=w2880-h1472)
