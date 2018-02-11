@@ -1,6 +1,6 @@
 # Chat Server
 
-Chat is a TCP server that allow (netcat "nc") clients to communicate to each other.
+Chat is a TCP server that allows (netcat "`nc`") clients to communicate to each other.
 
 Run this on your terminal:
 ```
