@@ -20,4 +20,4 @@ On a separate instance of your terminal, dial the chat server:
 
 Run another instance and allow clients to communicate to each other.
 
-![Chat in action](https://lh6.googleusercontent.com/xeW-4ri7e7t_iNY54Q3EVfnhKfMNp4S7FQyJi3-EnYT72WwHO3dbyuYgtgBTFSMY-0klKaDVINt-qh1398tC=w2880-h1472)
+See it in [action](https://lh6.googleusercontent.com/xeW-4ri7e7t_iNY54Q3EVfnhKfMNp4S7FQyJi3-EnYT72WwHO3dbyuYgtgBTFSMY-0klKaDVINt-qh1398tC=w2880-h1472).
