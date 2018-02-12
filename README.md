@@ -2,11 +2,6 @@
 
 Chat is a TCP server that allows (netcat "`nc`") clients to communicate to each other.
 
-Point your local GOPATH:
-```
-  $ export GOPATH=$PWD
-```
-
 Run this on your terminal:
 ```
   $ go build chat.go
